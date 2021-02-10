@@ -1,0 +1,93 @@
+{
+    "messageSent": 3,
+    "primogems": 22,
+    "pityCounter4star": 1,
+    "pityCounter5star": 11,
+    "lastDaily": 1612137600000,
+    "lastWeekly": 0,
+    "lastMonthly": 0,
+    "inventory": {
+        "characters": {},
+        "weapons": {
+            "three_star": {
+                "Debate-Club": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Slingshot": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Magic-Guide": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Raven-Bow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Sharpshooter's-Oath": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Cold-Steel": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            },
+            "four_star": {
+                "Favonius-Greatsword": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            }
+        },
+        "consumables": {}
+    }
+}

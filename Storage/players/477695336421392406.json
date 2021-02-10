@@ -1,0 +1,94 @@
+{
+    "messageSent": 2,
+    "primogems": 16,
+    "pityCounter4star": 1,
+    "pityCounter5star": 11,
+    "lastDaily": 1611014400000,
+    "lastWeekly": 0,
+    "lastMonthly": 0,
+    "inventory": {
+        "characters": {
+            "four_star": {
+                "菲谢尔": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                }
+            }
+        },
+        "weapons": {
+            "three_star": {
+                "Debate-Club": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Sharpshooter's-Oath": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Ferrous-Shadow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Magic-Guide": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Raven-Bow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Harbringer-of-Dawn": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            }
+        },
+        "consumables": {}
+    }
+}

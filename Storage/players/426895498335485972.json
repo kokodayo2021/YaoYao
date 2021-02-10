@@ -1,0 +1,636 @@
+{
+    "messageSent": 19,
+    "primogems": 26587,
+    "pityCounter4star": 5,
+    "pityCounter5star": 6,
+    "lastDaily": 1612051200000,
+    "lastWeekly": 1611792000000,
+    "lastMonthly": 1609632000000,
+    "inventory": {
+        "characters": {
+            "four_star": {
+                "芭芭拉": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                },
+                "砂糖": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                },
+                "重云": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                },
+                "安柏": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                },
+                "班尼特": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                },
+                "菲谢尔": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                }
+            },
+            "five_star": {
+                "琴": {
+                    "rank": 1,
+                    "level": 1,
+                    "constellation_level": 0,
+                    "current_exp": 0,
+                    "current_health": 1,
+                    "equipped_item": ""
+                }
+            }
+        },
+        "weapons": {
+            "three_star": {
+                "Sharpshooter's-Oath": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Slingshot": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Debate-Club": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Raven-Bow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Harbringer-of-Dawn": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Ferrous-Shadow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Cold-Steel": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Magic-Guide": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            },
+            "four_star": {
+                "Blackcliff-Slasher": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Blackcliff-Warbow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Prototype-Crescent": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Eye-of-Perception": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Favonius-Greatsword": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Serpent-Spine": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            }
+        },
+        "consumables": {}
+    }
+}

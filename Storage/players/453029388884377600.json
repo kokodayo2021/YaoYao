@@ -1,0 +1,91 @@
+{
+    "messageSent": 6,
+    "primogems": 1644,
+    "pityCounter4star": 6,
+    "pityCounter5star": 11,
+    "lastDaily": 1606867200000,
+    "lastWeekly": 0,
+    "lastMonthly": 0,
+    "inventory": {
+        "characters": {},
+        "weapons": {
+            "three_star": {
+                "Ferrous-Shadow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Harbringer-of-Dawn": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    },
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Sharpshooter's-Oath": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Debate-Club": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ],
+                "Raven-Bow": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            },
+            "four_star": {
+                "The-Alley-Flash": [
+                    {
+                        "rank": 1,
+                        "level": 1,
+                        "stored_exp": 0,
+                        "isEquipped": ""
+                    }
+                ]
+            }
+        },
+        "consumables": {}
+    }
+}

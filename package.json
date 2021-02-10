@@ -1,0 +1,28 @@
+{
+  "name": "Yaoyao",
+  "version": "1.0.0",
+  "description": "Yaoyao bot",
+  "main": "main.js",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darkspirit2017/Yaoyao.git"
+  },
+  "keywords": [
+    "Yaoyao",
+    "Bot"
+  ],
+  "author": "Kokodayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darkspirit2017/Yaoyao/issues"
+  },
+  "homepage": "https://github.com/Darkspirit2017/Yaoyao#readme"
+}
